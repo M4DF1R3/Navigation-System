@@ -1,0 +1,14 @@
+Name: Kevin Qian
+SID: 1709188
+CCID: cq4
+AnonID: 1000317291
+CMPUT 275 , Winter 2023
+
+Assignment 1 - Part 1:
+
+Running Instructions: Git clone using the command "git clone [ssh key]" and run the command "make run" while inside the soln folder to compile and run based off edmonton-roads-2.0.1.txt. You can "make clean" to remove compiled file and .txt output.
+
+Notes and Assumptions: The only files modified are dijkstra.cpp and server.cpp.
+
+
+Acknowledgements: None
